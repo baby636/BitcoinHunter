@@ -1,6 +1,8 @@
 https://github.com/ChristianOlmosUSA/BitcoinHunter
+
+## I must refer you to 100x faster: https://github.com/ChristianOlmosUSA/BitcoinGuesser
  
-# Lets work together and find Satoshi's lost Bitcoin and help return it to the bitcoin ecosystem !!
+### Lets work together and find Satoshi's lost Bitcoin and help return it to the bitcoin ecosystem !!
 
 step 1) download and save all bitcoin addresses into the local folder, this is a 2.6GB file so will take a while, click on the file from:
 https://www.bitkeys.work/faq.php . 
